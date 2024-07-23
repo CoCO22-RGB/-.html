@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="CSS.css" />
         <title>리뷰클래스</title>
-        <link rel="icon" href="C:\Users\zag12\Desktop\html\리뷰클래스\제주사대부고.png"/>
+        <link rel="icon" href="https://github.com/CoCO22-RGB/-.html/blob/5bc4d793a56b4131858cd98212ae4ed096a4f8d8/%EC%A0%9C%EC%A3%BC%EC%82%AC%EB%8C%80%EB%B6%80%EA%B3%A0.png"/>
 
         <style>
             * {
@@ -102,7 +102,7 @@
         <header>
             <div class="container">
                 <div class="logo">
-                    <a href="https://school.jje.go.kr/jnuh/main.do" target="_blank"><img src="C:\Users\zag12\Desktop\html\리뷰클래스\제주사대부고.png" /></a>
+                    <a href="https://school.jje.go.kr/jnuh/main.do" target="_blank"><img src="https://github.com/CoCO22-RGB/-.html/blob/5bc4d793a56b4131858cd98212ae4ed096a4f8d8/%EC%A0%9C%EC%A3%BC%EC%82%AC%EB%8C%80%EB%B6%80%EA%B3%A0.png" /></a>
                     <p>
                         <span>리뷰클래스</span>
                         <span>제주대학교사범대학부설고등학교</span>
